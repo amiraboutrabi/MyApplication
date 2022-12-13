@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="charselec">Characters</string>
+    <string name="wselec">Words</string>
+    <string-array name="soptions">
+        <item>Characters</item>
+        <item>Words</item>
+
+    </string-array>
+</resources>
